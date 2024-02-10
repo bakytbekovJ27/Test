@@ -30,7 +30,7 @@ img {
 header {
     background-color: #804646;
     color: #fff;
-    padding: 20px;
+    padding: 5px;
     text-align: center;
 }
 
@@ -70,14 +70,5 @@ section h2 {
     margin: 20px auto;
 }
 
-footer {
-    background-color: #2d2929;
-    color: #fff;
-    text-align: center;
-    padding: 10px 0;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-}
 
 
